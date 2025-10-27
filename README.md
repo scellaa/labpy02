@@ -56,6 +56,7 @@ Perhatikan gambar syntax berikut:
 3. Variabel akhir dihitung sebagai awal + 10. Ini menentukan batas atas untuk loop dalam. Misalnya, jika awal=0, akhir=10; jika awal=1, akhir=11.
 4. Setelah itu pada line 4, looping akan mencetak angka mulai dari awal hingga akhir.
 5. Kemduain akhiri program dengan end, yang berarti bila angka sudah di cetak tidak akan ada garis baru.
+   
 Outputnya akan seperti ini:
 
 
@@ -76,6 +77,7 @@ Perhatikan syntax dibawah ini:
 4. Menggunakan random.random() untuk menghasilkan angka acak bertipe float antara 0.0 (inklusif) dan 1.0 (eksklusif).
 5. Setelah itu proses hitung apakah num < 0.5, bila iya system akan memberikan output yang sesuai.
 6. Kemudian Break di gunakan untuk menghentikan loop.
+   
 Outputnya akan seperti ini:
 
 
@@ -94,6 +96,7 @@ Perhatikan syntax berikut:
 2. Confirm apakah anda mempunyai kartu member atau tidak.
 3. Lalu menghitung Harga normal sebuah tiket, bila VIP Rp100.000.00 dan Reguler Rp50.000.00 
 4. Kemudian Masukan Rumus if dan else untuk menentukan sebuah harga jual tiket, bila mempunyai kartu member maka tiket dikenai potongan sebanyak 20% (20.000) jika tidak maka Harga jual tiket tetap sama seperti harga normal
+   
 Outputnya akan seperti ini:
 
 (TIKET VIP)
@@ -123,6 +126,7 @@ Perhatikan syntax dibawah ini:
 1. Masukan format while true untuk infinite looping pada calculator lalu setelahnya masukan operator yang ingin digunakan pada calculator simple.
 2. Masukan Nilai 1 dan 2 agar calculator bisa menghasilkan output yang sesuai.
 3. Kemudian gunakan format if, elif, dan else untuk menentukan hasil dari bilangan dan operator yang di tentukan, jika sudah maka output akan sesuai dengan bilangan dan operator yang telah di tentukan.
+   
 Berikut merupakan contoh output calculator simple:
 
 

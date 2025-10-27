@@ -9,7 +9,7 @@ Kelas: TI.C5.25
 Perhatikan gambar syntax berikut:
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Lat%201%20py%20%20input%20(the%20greater%20number).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Lat%201%20py%20%20input%20(the%20greater%20number).jpg)
 
 1. Masukan 4 bilangan untuk di analisis manakan yang terbesar diantara Ke-4 bilangan tersebut.
 2. Pada line ke 6 Masukan command int untuk mendefinisikan bahwa bilangan yang ingin di analisis adalah bilangan bulat.
@@ -17,13 +17,13 @@ Perhatikan gambar syntax berikut:
 4. Setelahnya output akan keluar sesuai seperti dibawah ini
 
    
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(a%20is%20greater).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(a%20is%20greater).jpg)
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%20py%201%20(b%20is%20greater).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%20py%201%20(b%20is%20greater).jpg)
 
-![iamge](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(c%20is%20greater).jpg)
+ ![iamge](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(c%20is%20greater).jpg)
 
-![image]( https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(d%20is%20greater).jpg)
+ ![image]( https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(d%20is%20greater).jpg)
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -31,7 +31,7 @@ Perhatikan gambar syntax berikut:
 Perhatikan gambar syntax berikut:
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Input%20Lat%202%20(Data%20Sortir).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Input%20Lat%202%20(Data%20Sortir).jpg)
 
 
 1. Masukan n sebagai variable data yang akan di analisis (minimal 3 data).
@@ -40,7 +40,7 @@ Perhatikan gambar syntax berikut:
 4. Kemudian akan keluar output seperti:
 
    
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%202.jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%202.jpg)
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ Perhatikan gambar syntax berikut:
 Perhatikan gambar syntax berikut:
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Input%20LAB%203%20%20lat%201%20(%20NESTED%20LOOPING).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Input%20LAB%203%20%20lat%201%20(%20NESTED%20LOOPING).jpg)
 
 
 1. Masukan rumus for untuk looping data yang sequence (sudah di tetapkan) pada range (10) yang berarti looping sebanyak 10x.
@@ -59,7 +59,7 @@ Perhatikan gambar syntax berikut:
 Outputnya akan seperti ini:
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/output%20LAB%203%20lat%201%20(NESTED%20LOOPING).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/output%20LAB%203%20lat%201%20(NESTED%20LOOPING).jpg)
 
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -67,7 +67,7 @@ Outputnya akan seperti ini:
 Perhatikan syntax dibawah ini:
 
 
-![image](https://github.com/scellaa/labpy02/blob/959902343528f6e2c7e00e38ceceddd1bfe609c0/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/INPUT%20BILANGAN%20KURANG%20DARI%200.5.jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/959902343528f6e2c7e00e38ceceddd1bfe609c0/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/INPUT%20BILANGAN%20KURANG%20DARI%200.5.jpg)
 
 
 1. Masukan Import random untuk menghasilkan angka acak.
@@ -79,7 +79,7 @@ Perhatikan syntax dibawah ini:
 Outputnya akan seperti ini:
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Ouput%20(%20BILANGAN%20KURANG%20DARI%200.5).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Ouput%20(%20BILANGAN%20KURANG%20DARI%200.5).jpg)
 
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -87,7 +87,7 @@ Outputnya akan seperti ini:
 Perhatikan syntax berikut:
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Input%20STUDI%20KASUS%201%20(TICKET%20DISCOUNT).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Input%20STUDI%20KASUS%201%20(TICKET%20DISCOUNT).jpg)
 
 
 1. Input ticket type untuk mengetahui jenis tiket yang ingin dibeli.
@@ -99,17 +99,17 @@ Outputnya akan seperti ini:
 (TIKET VIP)
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20(TICKET%20DISCOUNT%20VIP).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20(TICKET%20DISCOUNT%20VIP).jpg)
 
 
 (TIKET REGULER)
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20(TICKET%20DISCOUNT%20REGULER).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20(TICKET%20DISCOUNT%20REGULER).jpg)
 
 
 ### FLOWCHART TICKET DISCOUNT
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Fowchart%20ticket%20discont.jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Fowchart%20ticket%20discont.jpg)
 
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -117,7 +117,7 @@ Outputnya akan seperti ini:
 Perhatikan syntax dibawah ini:
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Input%20Studi%20kasus%202%20(%20CALCULATOR).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Input%20Studi%20kasus%202%20(%20CALCULATOR).jpg)
 
 
 1. Masukan format while true untuk infinite looping pada calculator lalu setelahnya masukan operator yang ingin digunakan pada calculator simple.
@@ -126,26 +126,26 @@ Perhatikan syntax dibawah ini:
 Berikut merupakan contoh output calculator simple:
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(%2B).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(%2B).jpg)
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(-).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(-).jpg)
 
 
-![image](https://github.com/scellaa/labpy02/blob/959902343528f6e2c7e00e38ceceddd1bfe609c0/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(MULTIPLICATION)%20(.jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/959902343528f6e2c7e00e38ceceddd1bfe609c0/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(MULTIPLICATION)%20.jpg)
 
 
-![image](https://github.com/scellaa/labpy02/blob/959902343528f6e2c7e00e38ceceddd1bfe609c0/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(slice).jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/959902343528f6e2c7e00e38ceceddd1bfe609c0/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(slice).jpg)
 
 
-![image](https://github.com/scellaa/labpy02/blob/959902343528f6e2c7e00e38ceceddd1bfe609c0/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(EXIT).jpg )
+ ![image](https://github.com/scellaa/labpy02/blob/959902343528f6e2c7e00e38ceceddd1bfe609c0/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/OUTPUT%20CALCULATOR%20(EXIT).jpg )
 
 
 
 ### FLOWCHART CALCULATOR SIMPLE
 
 
-![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/flowchart%20calculator.jpg)
+ ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/flowchart%20calculator.jpg)
 
 --------------------------------------------------------------------------------------------------------------------------
 

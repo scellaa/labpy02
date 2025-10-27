@@ -7,13 +7,14 @@ Kelas: TI.C5.25
 
 ## MENENTUKAN BILANGAN TERBESAR ANTARA A, B, C, D.
 Perhatikan gambar syntax berikut:
-![image](URL)
+![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Lat%201%20py%20%20input%20(the%20greater%20number).jpg)
 1. Masukan 4 bilangan untuk di analisis manakan yang terbesar diantara Ke-4 bilangan tersebut.
 2. Pada line ke 6 Masukan command int untuk mendefinisikan bahwa bilangan yang ingin di analisis adalah bilangan bulat.
 3. Masukan peritah if, elif, dan else untuk menghitung bilangan mana kah yang paling besar diantara 4 bilangan tersebut.
 4. Setelahnya output akan keluar sesuai seperti dibawah ini
-![image](URL)
-![image](URL)
+![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(a%20is%20greater).jpg
+)
+![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%20py%201%20(b%20is%20greater).jpg)
 ![iamge](URL)
 ![image](URL)
 -----------------------------------------------------------------------------------------------------------------------

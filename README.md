@@ -16,13 +16,24 @@ Perhatikan gambar syntax berikut:
 3. Masukan peritah if, elif, dan else untuk menghitung bilangan mana kah yang paling besar diantara 4 bilangan tersebut.
 4. Setelahnya output akan keluar sesuai seperti dibawah ini
 
+   Pada output ini merupakan contoh Bilangan A lebih besar
+   
    
  ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(a%20is%20greater).jpg)
-
+ 
+   Pada output ini Bilangan B yang lebih besar
+   
+   
  ![image](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%20py%201%20(b%20is%20greater).jpg)
+ 
+   Pada output ini bilangan C yang lebih besar
 
+   
  ![iamge](https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(c%20is%20greater).jpg)
 
+   Pada output ini bilangan D yang lebih besar 
+
+   
  ![image]( https://github.com/scellaa/labpy02/blob/c326944ac88ca0c1db723df1292ec0f77763c65e/Input%20Output%20syntax/FILE%20COMMAND%20SS%20PY%20PER%206/Output%20lat%201%20py%20(d%20is%20greater).jpg)
 
 
